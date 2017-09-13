@@ -1,0 +1,13 @@
+{
+    "name"             : "styx/placeholder",
+    "authors"          : [
+        {
+            "name" : "Nikita Makarov",
+            "email": "mesaverde228@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require"          : {
+        "php"                  : ">=5.3"
+    }
+}
